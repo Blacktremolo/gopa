@@ -17,7 +17,7 @@ Use it by:
 Usage overview
 ==============
 
-Gopa offers a few commands to REQUIRE a parameter of a specific type and on a specific position.
+Gopa offers a few commands to REQUIRE a parameter of a specific type at a specific position.
 Requiering means that if the param type does not match or it is non-existent the program will exit.
 Gopa also offers commands to check if param of any type exists on a certain position,
 so the number of parameters can be flexible.
